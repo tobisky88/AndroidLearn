@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@drawable/fish"/>
+        android:src="@drawable/droidparty"/>
         
         
     <TextView
@@ -18,7 +18,8 @@
         android:textSize="30sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
-        android:text="Happy Birthday Queen G" />
+        android:text="Happy Birthday Queen G" 
+        android:padding="20dp"/>
 
 
     <TextView
@@ -29,7 +30,8 @@
         android:textSize="36sp"
         android:textColor="@android:color/white"
         android:fontFamily="sans-serif-light"
-        android:text="From Tobisky" />
+        android:text="From Tobisky"
+        android:padding="20dp"/>
 
    
 
